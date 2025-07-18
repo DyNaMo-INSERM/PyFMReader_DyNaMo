@@ -1,7 +1,20 @@
-# Pyfmreader
+# ⚠️ PyFMReader Archived
+
+**This repository is no longer maintained.**
+
+The project is now a part of a unified repository:
+
+👉 **[New Repository](https://github.com/DyNaMo-INSERM/PyFMlab_DyNaMo)**
+
+Please refer to the new repository for the latest updates, issues, and contributions.
+
+---
+
+*This repository is archived and will not receive any further updates.*
+
 
 Version DyNaMo
-CAN READ A PSNEX FILE  
+
 In development, not fully stable.
 If you find any issues please open an issue at:
 https://github.com/jlopezalo/PyFMReader/issues
