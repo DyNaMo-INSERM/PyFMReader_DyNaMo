@@ -4,7 +4,7 @@
 
 The project is now a part of a unified repository:
 
-👉 **[New Repository](https://github.com/DyNaMo-INSERM/PyFMlab_DyNaMo)**
+👉 **[PyFMlab_DyNaMo](https://github.com/DyNaMo-INSERM/PyFMlab_DyNaMo)**
 
 Please refer to the new repository for the latest updates, issues, and contributions.
 
